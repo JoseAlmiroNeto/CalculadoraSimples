@@ -1,2 +1,2 @@
 # CalculadoraSimples
-Minha Primeira calculadora web feita!!
+Calculadora feita em HTML e CSS
